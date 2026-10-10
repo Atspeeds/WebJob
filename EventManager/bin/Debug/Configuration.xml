@@ -1,0 +1,8 @@
+<ApplicationSettings>
+  <server>
+    <name ServerURI="http://localhost/signalr" />
+  </server>
+  <hubname>
+    <name HubName="BehinSignalrServer" />
+  </hubname>
+</ApplicationSettings>

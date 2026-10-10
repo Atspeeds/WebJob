@@ -1,0 +1,78 @@
+﻿Installing assembly 'D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.InstallLog
+   assemblypath = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe
+Installing service BehinDMS...
+Service BehinDMS has been successfully installed.
+Creating EventLog source BehinDMS in log Application...
+Committing assembly 'D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.InstallLog
+   assemblypath = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe
+Installing assembly 'D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.InstallLog
+   assemblypath = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe
+Installing service BehinDMS...
+Service BehinDMS has been successfully installed.
+Creating EventLog source BehinDMS in log Application...
+Committing assembly 'D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.InstallLog
+   assemblypath = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe
+Installing assembly 'D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.InstallLog
+   assemblypath = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe
+Installing service BehinDMS...
+Service BehinDMS has been successfully installed.
+Creating EventLog source BehinDMS in log Application...
+Committing assembly 'D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.InstallLog
+   assemblypath = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe
+Installing assembly 'D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.InstallLog
+   assemblypath = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe
+Installing service BehinDMS...
+Service BehinDMS has been successfully installed.
+Creating EventLog source BehinDMS in log Application...
+Committing assembly 'D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.InstallLog
+   assemblypath = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe
+Installing assembly 'D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\eventManager.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\eventManager.InstallLog
+   assemblypath = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\eventManager.exe
+Installing service AftabTejaratEventManagerTest...
+Service AftabTejaratEventManagerTest has been successfully installed.
+Creating EventLog source AftabTejaratEventManagerTest in log Application...
+Committing assembly 'D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\eventManager.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\eventManager.InstallLog
+   assemblypath = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\eventManager.exe
+Installing assembly 'D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.InstallLog
+   assemblypath = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe
+Installing service AftabTejaratEventManagerTest...
+Service AftabTejaratEventManagerTest has been successfully installed.
+Creating EventLog source AftabTejaratEventManagerTest in log Application...
+Committing assembly 'D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.InstallLog
+   assemblypath = D:\Bahrami\Server-TFS\WorkFlow_BPMN\EventManager\EventManager\bin\Debug\EventManager.exe

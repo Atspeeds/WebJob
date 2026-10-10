@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "182d9655-6f4c-44eb-89aa-eb560a1a0fb8": {
+      "ProjectGuid": "182d9655-6f4c-44eb-89aa-eb560a1a0fb8",
+      "DisplayName": "EventManager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
